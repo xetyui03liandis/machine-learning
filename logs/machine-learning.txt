@@ -31,3 +31,4 @@
 06:06:08 | exit_code=237570
 06:06:10 | package_name=3203
 06:06:12 | dependency_hash=fd692969c68b3e60554324d6abe1b8b860f917cfd809a1f944df846d08c223b0
+07:06:09 | exit_code=360033
