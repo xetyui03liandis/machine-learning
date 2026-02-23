@@ -20,3 +20,4 @@
 02:06:10 | package_name=5635
 02:06:12 | dependency_hash=1bec8347e710b290574314e36fa86bb7a9ed4e81eee0adb256fc9fef7424b606
 03:06:09 | exit_code=892074
+03:06:12 | package_name=6048
