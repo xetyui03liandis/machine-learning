@@ -86,3 +86,4 @@
 00:06:12 | package_name=3354
 00:06:15 | dependency_hash=b1555d1167dd4f28c0e2958fcadf2d02daf48c9e0347817c06b563a04e7bf503
 01:06:07 | exit_code=348727
+01:06:11 | package_name=5248
