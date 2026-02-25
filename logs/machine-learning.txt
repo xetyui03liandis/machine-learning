@@ -173,3 +173,4 @@
 05:06:10 | package_name=8009
 05:06:12 | dependency_hash=6a6ecb7f688dfe732bae1e6094816bbae5f1f0147fb67636d92f202ec77c1783
 06:06:09 | exit_code=887056
+06:06:12 | package_name=3328
